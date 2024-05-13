@@ -1,1 +1,1 @@
-# TDT4102
+# Gammel kode fra TDT4102
